@@ -1,0 +1,7 @@
+*.o
+*.so
+*.pyc
+*.tar
+*.gz
+*.tar.gz
+*.html
