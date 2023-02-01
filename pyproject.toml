@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "aiko"
-version = "1.0.0"
+name = "aiko-kernel"
+version = "1.0.1"
 description = "A small kernel to using in Python or MicroPython"
 readme = "ReadMe.md"
 requires-python = ">=3.5"
